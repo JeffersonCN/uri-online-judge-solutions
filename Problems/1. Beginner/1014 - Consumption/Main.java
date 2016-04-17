@@ -5,7 +5,6 @@ import java.util.Locale;
 
 public class Main {
     public static void main(String[] args) {
-        final double pi = 3.14159;
         Scanner scan = new Scanner(System.in).useLocale(Locale.US);
         
         int x = scan.nextInt();
