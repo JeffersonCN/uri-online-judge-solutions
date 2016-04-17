@@ -1,4 +1,4 @@
-// PROBLEM URL: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
+// PROBLEM URL: https://www.urionlinejudge.com.br/judge/en/problems/view/1006
 
 import java.util.Scanner;
 import java.util.Locale;
